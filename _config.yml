@@ -229,6 +229,7 @@ paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+# See https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 #   for configuration details
 pagination:
   # Set enabled to true to use paginate v2
