@@ -13,8 +13,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Manjot Saggu"
+description              : "My Personal Portfolio Website"
 url                      : "https://msaggu204.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "msaggu204/msaggu204.github.io"
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Manjot Saggu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Computer Engineer"
   location         : "Edmonton, Alberta, Canada"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:msaggu@email.com"
+      url: "mailto:msaggu@ualberta.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/msaggu204/msaggu204"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
